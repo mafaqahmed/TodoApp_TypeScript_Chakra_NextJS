@@ -126,7 +126,7 @@ export default function Todo() {
             textAlign="center"
             letterSpacing="1px"
           >
-            We'd love to manage your tasks
+            We would love to manage your tasks
           </Center>
           <Center
             as="p"
