@@ -190,6 +190,7 @@ export default function Todo() {
               borderColor="gray.400"
               px="10px"
               py="20px"
+              key={index}
             >
               <Flex justify="space-between" align="center">
                 <Text whiteSpace='normal'>{item.text}</Text>
