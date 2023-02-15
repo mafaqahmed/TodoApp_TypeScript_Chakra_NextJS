@@ -7,7 +7,7 @@ export default function Head() {
       <meta name="author" content="Afaq Ahmed"></meta>
       <meta name="title" property="og:title" content="Todo App"></meta>
       <meta property="og:type" content="todo web app"></meta>
-      <meta name="image" property="og:image" content="/preview.png"></meta>
+      <meta name="image" property="og:image" content="/preview.jpg"></meta>
       <link rel="icon" href="/favicon.ico" />
     </>
   )
